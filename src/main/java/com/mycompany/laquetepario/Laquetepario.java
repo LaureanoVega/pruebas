@@ -14,7 +14,4 @@ public class Laquetepario {
         System.out.println("Hello World!");
     }
 }
-hola amigos de youtube
-adios amigos de youtube
-esta es la segunda prueba 
-vamos por la tercera como leo
+ni por un segundo a tu doble vida voy a volver
