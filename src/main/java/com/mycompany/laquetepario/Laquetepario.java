@@ -18,3 +18,4 @@ hola amigos de youtube
 adios amigos de youtube
 esta es la segunda prueba 
 vamos por la tercera como leo
+a tus enganios y a tus mentiras les digo adios, ya no hay mas danio no mas heridas, conmigo no
