@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.laquetepario;
+
+/**
+ *
+ * @author Zera
+ */
+public class Laquetepario {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+hola amigos de youtube
+adios amigos de youtube
